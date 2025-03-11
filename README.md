@@ -1,9 +1,9 @@
-<h1 align="center">🚀 P Jaswanth Krishna | AI & ML Innovator</h1>  
+<h1 align="center">🚀 Veerla Sailaja | AI & ML Innovator</h1>  
 <p align="center">AI Enthusiast | Researcher | Open Source Contributor | Tech Speaker</p>  
 
 <h3 align="center">👀 Total Profile Visits 👀</h3>
 <p align="center">
-	<img src="https://count.getloli.com/get/@Krizzna69?theme=gelbooru-h"> <br/>
+	<img src="https://count.getloli.com/get/@Sailajayadav?theme=gelbooru-h"> <br/>
 </p>
 ---
 
