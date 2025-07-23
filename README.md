@@ -3,7 +3,7 @@
 
 <h3 align="center">👀 Total Profile Visits 👀</h3>
 <p align="center">
-	<img src="https://count.getloli.com/get/@Sailajayadav?theme=gelbooru-h"> <br/>
+	<img src="https://camo.githubusercontent.com/f577462e8ecf39ee89d3197c93b434c517e3ff0b58fff5b3efcc3ccbb06c715c/68747470733a2f2f636f756e742e6765746c6f6c692e636f6d2f4064656d6f3f7468656d653d626f6f72752d6b6f65"> <br/>
 </p>
 ---
 
