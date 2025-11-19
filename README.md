@@ -46,7 +46,7 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://sailajayadav.github.io/SailajaYadav-Portfolio.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://latest-portfolio-lake.vercel.app" alt="Portfolio" />
   </a>
 </p>  
 
