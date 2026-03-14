@@ -8,7 +8,7 @@
 ---
 
 ## 💡 About Me  
-- 🎓 **3rd Year AI & ML Student** @ NRI Institute of Technology  
+- 🎓 **Final Year AI & ML Student** @ NRI Institute of Technology  
 - 🏆 **TechTrek Hackathon Winner**
 - 🏆 **Prajwalan National level Hackathon Winner**
 - 🏆 **Innovators Hackfusion National level Hackathon Winner**
